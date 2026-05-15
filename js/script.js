@@ -67,3 +67,4 @@ function applyRegisteredUI(btn) {
     btn.disabled = true;
     btn.style.cursor = "default";
 }
+// Week 4 Polish: Checked and validated registration logic
